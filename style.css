@@ -123,7 +123,7 @@ body {
 .bg_sprite_ani_panorama_in {
 
 
-    animation: bg_panorama_in_kf 10s 3s 1 forwards;
+    animation: bg_panorama_in_kf 10s .5s 1 forwards;
 
 
 }
